@@ -2,6 +2,8 @@
 
 ETTデータセット（ETTh1）を用いて、変圧器のオイル温度（OT）の1時間先予測を行うPoC（技術検証）です。線形回帰・SimpleLSTM（1層LSTM）・UNetResidualLSTMBlock（U-Net構造＋残差接続）の3手法を比較検証し、予防保全への活用可能性を検証しました。
 
+本リポジトリは、株式会社Athena Technologies MLエンジニア選考課題の提出物です。
+
 ## クイックリンク
 
 - 📓 [実装ノートブックを見る](./oil_temperature_forecast.ipynb)
